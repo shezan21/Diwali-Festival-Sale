@@ -1,5 +1,5 @@
 # Diwali Sales Analysis & Visualization:
-
+#
 **Introduction**
 The Diwali Sales Analysis & Visualization project focuses on analyzing sales data during the Diwali frstivsl to gain insights into customer behavior, imporve customer experience and optimize sales strategies.By performing `Data Cleaning`, `Exploratory Data Analysis` and `Visualization Techniques`, we aim to identify patterns and trends int the data to make informed decisions.
 

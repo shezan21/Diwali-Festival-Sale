@@ -27,4 +27,4 @@ The main  objectives of this analysis are as follows:
 
 
 # **Conclusion**
-    THe Diwali Sales Analysis and Visualization project aims to imporve customer experience and sales strategies by analyzing sales data during the festival. By performing `Data CLeaning`, `EDA` and `Visualization` we can gain insights into potential customers across different demographics and identify the most selling product categoriesand products. These insights will help optimize marketing strategies, plan inventory and meet customers demands, leading to imporve sales and custo,ers satisfaction during the Diwali festival.
+The Diwali Sales Analysis and Visualization project aims to imporve customer experience and sales strategies by analyzing sales data during the festival. By performing `Data CLeaning`, `EDA` and `Visualization` we can gain insights into potential customers across different demographics and identify the most selling product categoriesand products. These insights will help optimize marketing strategies, plan inventory and meet customers demands, leading to imporve sales and custo,ers satisfaction during the Diwali festival.

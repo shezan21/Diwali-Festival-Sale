@@ -21,7 +21,7 @@ The main  objectives of this analysis are as follows:
 # **Methodology**
   - **Data Loading:** Load the Diwali sales dataset into the code using `Pandas` library.Perform intial data exploration to understand the structure and content of the dataset.
   - **Data Cleanning & Mainpulation:** Handle `missing values`, `remove duplicates` and perform necessary `data tranformations`. This step ensure the data is in a suitable format for analysis.
-  - **Exploratory Data Analysis (EDA):** Use `Pandas`, `Metplotlib` and `Seaborn` libraries to explore the dataset. Analyze different variables their distributions and relationship.Geenerate various visualizations such as `Bar Plot`, `Pie Chart` and `Scatter Plots` to uncover patterns and trends.
+  - **Exploratory Data Analysis (EDA):** Use `Pandas`, `Metplotlib` and `Seaborn` libraries to explore the dataset. Analyze different variables their distributions and relationship.Generate various visualizations such as `Bar Plot`, `Pie Chart` and `Scatter Plots` to uncover patterns and trends.
   - **Customer Analysis:** Analyze customer demographics such as `States` `Occupations` `Gender` and `Age Group` to iddentify potential customers. Use `Bar Plot` or `Pie Charts`to visualiize the distributions of customers across different categories.
   - ***Product Sales Analysis:** Determine the most selling product categories and specific products during the Diwali festival.Utilize `Bar Plot`, or `Pie Chatrs` to visualize the sales quantities and identify the top-selling items.
 
